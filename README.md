@@ -1,6 +1,6 @@
 # \# 🛒 Sales Prediction with LightGBM
 # This project builds a machine learning pipeline to predict product-level daily sales for a retail business. It includes feature engineering, model training, hyperparameter tuning, and evaluation with LightGBM.
-# ---
+ ---
 # \## 📊 Dataset Overview
 # \*\*Historical data columns:\*\*
 
